@@ -1,0 +1,214 @@
+{
+    "success": true,
+    "error": [],
+    "data": {
+        "items": [
+            {
+                "_id": "62a02e391d64fd05d2fa9bf2",
+                "itemName": "Misal Pav(Served with Bread Slices)",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pav - Misal Pav  (Served with Bread Slices)-  Pune .",
+                "fullDescription": "Misal pav is a popular dish from Maharashtra. It consists of misal (a spicy curry usually made from moth beans) and pav (a type of Indian bread roll). Though this shop uses bread slices instead. The final dish is topped with farsan or sev, onions, lemon and coriander (cilantro).",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4550_189-535[1].jpg"
+                ],
+                "UOM": "2|Pieces",
+                "stockQuantity": 10000,
+                "ratings": "4.8",
+                "priority": "9",
+                "ingredient": "Bread slices, onion, tomato, moth beans.",
+                "handlingDetail": "Cooked Food|All Cooked Food are maintained between 5-8 degree C (for Interstate Products) We neither Freeze nor add any preservatives. Our special packaging maintains the moisture in the food. Please refrigerate if not consumed immediately Heat for about 1min - 2min (or as required by you) before eating Use a Bowl of water at the side if heating Rice Items kulcha etc.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "misal-pav-served-with-bread-slices",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 519
+            },
+            {
+                "_id": "62a035884fc6c405cbf4c9b7",
+                "itemName": "Kharvas (Sugar)",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pao - Kharvas (Sugar)-Pune",
+                "fullDescription": "Kharvas is an Indian milk pudding made from cow or buffalo colostrum, the first form of milk produced within one or two days of giving birth.",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4551_900-761[1].jpg"
+                ],
+                "UOM": "4|Pieces",
+                "stockQuantity": 10000,
+                "ratings": "4.7",
+                "priority": "9",
+                "ingredient": "Milk, sugar",
+                "handlingDetail": "Sweets|Most of the Sweets, made from Milk Products, are perishable in nature. We maintain 5-8 degree C during the transit (for Inter State products), till it reaches you. Please refrigerate immediately after receiving the Product if consumption is not immediate.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "kharvas-sugar",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 479
+            },
+            {
+                "_id": "62a037234fc6c405cbf4cec2",
+                "itemName": "Kharvas (Jaggery)",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pao - Kharvas (Jaggery)  - Pune",
+                "fullDescription": "Kharvas is an Indian milk pudding made from cow or buffalo colostrum, the first form of milk produced within one or two days of giving birth.",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4552_878-356[1].jpg"
+                ],
+                "UOM": "4|Pieces",
+                "stockQuantity": 10000,
+                "ratings": "4.7",
+                "priority": "9",
+                "ingredient": "MIlk, jaggery",
+                "handlingDetail": "Sweets|Most of the Sweets, made from Milk Products, are perishable in nature. We maintain 5-8 degree C during the transit (for Inter State products), till it reaches you. Please refrigerate immediately after receiving the Product if consumption is not immediate.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "kharvas-jaggery",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 499
+            },
+            {
+                "_id": "62a039dce5d2f416a0942cd4",
+                "itemName": "Kharvas (Rose)",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pao -  Kharvas (Rose) - Pune",
+                "fullDescription": "Kharvas is an Indian milk pudding made from cow or buffalo colostrum, the first form of milk produced within one or two days of giving birth.",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4553_491-606[1].jpg"
+                ],
+                "UOM": "4|Pieces",
+                "stockQuantity": 10000,
+                "ratings": "4.8",
+                "priority": "9",
+                "ingredient": "Milk and rose flavour",
+                "handlingDetail": "Sweets|Most of the Sweets, made from Milk Products, are perishable in nature. We maintain 5-8 degree C during the transit (for Inter State products), till it reaches you. Please refrigerate immediately after receiving the Product if consumption is not immediate.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "kharvas-rose",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 499
+            },
+            {
+                "_id": "62a03b1b4fc6c405cbf4df24",
+                "itemName": "Kharvas (Coffee)",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pao - Kharvas (Coffee) - Pune",
+                "fullDescription": "Kharvas is an Indian milk pudding made from cow or buffalo colostrum, the first form of milk produced within one or two days of giving birth.",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4554_681-561[1].jpg"
+                ],
+                "UOM": "4|Pieces",
+                "stockQuantity": 10000,
+                "ratings": "4.7",
+                "priority": "9",
+                "ingredient": "MIlk, coffee",
+                "handlingDetail": "Sweets|Most of the Sweets, made from Milk Products, are perishable in nature. We maintain 5-8 degree C during the transit (for Inter State products), till it reaches you. Please refrigerate immediately after receiving the Product if consumption is not immediate.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "kharvas-coffee",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 499
+            },
+            {
+                "_id": "62a0410a1d64fd05d2faec1e",
+                "itemName": "Chirota",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pao  - Chirota -  Pune",
+                "fullDescription": "It's a Maharashtrian delicacy made from all purpose flour, semolina and ghee",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4555_331-439[1].jpg"
+                ],
+                "UOM": "|Pack of 2",
+                "stockQuantity": 10000,
+                "ratings": "4.7",
+                "priority": "9",
+                "ingredient": "All purpose flour, semolina and ghee.",
+                "handlingDetail": "Street Food|All Street food products are maintained at. 5-8 degree C (for Interstate Products). We neither Freeze nor add any preservatives. Please refrigerate if not consumed immediately. Best results if heated on a pan with a little oil, before consumption.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "chirota",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 409
+            },
+            {
+                "_id": "62a045fae5d2f416a0946b42",
+                "itemName": "Shengdana Laadu",
+                "itemType": "veg",
+                "filter": [
+                    "veg"
+                ],
+                "shortDescription": "Bedekar Misal Pao - Shengdana Laadu - Pune",
+                "fullDescription": "It is made from peanut, sugar and ghee. It contains healthy fats and low carbohydrates hence can be included in your daily diet. Peanut are rich in vitamins and minerals that can be helpful for muscle and heart health. These nutrients are also essential during pregnancy. Vitamins that improve brain health and boost memory are also present in Peanut.",
+                "productImages": [
+                    "https://jmr-prod-01.s3.amazonaws.com/product_4559_748-370[1].jpg"
+                ],
+                "UOM": "16|Pieces",
+                "stockQuantity": 10000,
+                "ratings": "4.8",
+                "priority": "9",
+                "ingredient": "Peanut, sugar and ghee",
+                "handlingDetail": "Sweets|Most of the Sweets, made from Milk Products, are perishable in nature. We maintain 5-8 degree C during the transit (for Inter State products), till it reaches you. Please refrigerate immediately after receiving the Product if consumption is not immediate.",
+                "disclaimer": "The product images shown are for illustration purposes only and may not be an exact representation of the product. The manufacturer reserves the right to change the product images and specifications at any time without notice.",
+                "brand": "Bedekar Misal Pav",
+                "slug": "shengdana-laadu",
+                "expressDel": false,
+                "aboutSeller": "Tucked away in an obscure lane near Patrya Maruti Mandir in Narayan Peth, Bedekar MIsal Pav is one of the most popular misal pav joints in Pune. It has been in operation for over 70 years, when it was founded in 1948 by Dattaray Bedekar",
+                "brandId": "62460e429092073b54eca572",
+                "brandName": "Bedekar Misal Pav",
+                "brandCity": "Pune",
+                "brandSlug": "bedekar-misal-pav",
+                "sellingPrice": 519
+            }
+        ]
+    },
+    "message": [
+        "Items fetched"
+    ]
+}
