@@ -33,6 +33,7 @@
   "dependencies": {
     "@babel/preset-react": "^7.23.3",
     "@reduxjs/toolkit": "^2.1.0",
+    "firebase": "^10.8.0",
     "jest-environment-jsdom": "^29.7.0",
     "jsdom": "^24.0.0",
     "lucide-react": "^0.323.0",

@@ -8,8 +8,8 @@ const Grocery = () => {
 
 const [pageData, setPageData] = useState("groceryData")
 const groceryData = useGrocery()
-const dryfrootData = useDryFrootData()
-const biscuitData = useBiscuit()
+// const dryfrootData = useDryFrootData()
+// const biscuitData = useBiscuit()
     return (groceryData === null) ? <FakeCard /> : 
     (
     <div>  
