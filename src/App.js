@@ -11,7 +11,7 @@ import { Suspense, lazy } from "react"
 import userContext from "./utils/userContext"
 import { Provider } from "react-redux"
 import store from "./utils/store"
-import Cart from "./components/cart"
+import Cart from "./components/Cart"
 import Login from "./components/Login"
 
 const Glocery = lazy(() => import('./components/Grocery'))
