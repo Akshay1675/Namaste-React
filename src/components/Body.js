@@ -21,7 +21,7 @@ const Body = () => {
         fetchData();
     }, [])
     const fetchData = async () => {
-        const data = await fetch(RES_URL_BENGALURU)
+        const data = await fetch(RES_URL_MUMBAI)
 
         const json = await data.json()
           setRestaurents(json?.data?.items)

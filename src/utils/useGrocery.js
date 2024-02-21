@@ -12,7 +12,7 @@ const useGrocery = () => {
         const data = await fetch(GRO_URL)
         const json = await data.json()
 
-        setGrocery(json?.pageProps?.plpData?.products)
+        setGrocery(json?.products)
         
     }
 

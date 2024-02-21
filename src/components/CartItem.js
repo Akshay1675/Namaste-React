@@ -4,7 +4,6 @@ import { removeFromCart } from "../utils/cartSlice";
 const CartItem = (props) => {
 
     const { CartItem } = props
-    console.log(CartItem);
     const dispatch = useDispatch()
 
     const removeItem = (id) => {

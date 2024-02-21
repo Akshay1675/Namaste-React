@@ -7,12 +7,12 @@ import { useNavigate } from "react-router-dom";
 
 const Cart = () => {
     const cartItems = useSelector((store => store.cart.items))
+    const user = useSelector((store) => store.user)
 
     const [orderPlaced, setOrderPlaced] = useState(false)
 
     const dispatch = useDispatch()
 
-    const navigate = useNavigate()    
     const handleClick = () => {
         dispatch(clearCart())
     }
@@ -21,7 +21,6 @@ const Cart = () => {
         setOrderPlaced(true)
         notify()
         dispatch(clearCart())
-        // navigate("/")
         
     }
     const notify = () => {
@@ -62,20 +61,20 @@ const Cart = () => {
         ))}
     </div>
       <div className="">
-      <label>Total Price - ₹ {total}</label>
+      <label className="font-semibold">Total Price - ₹ {total}</label>
                   <p>Delivery Charges - ₹ {deliveryCharge}</p>
                   <p>Tax - ₹ {tax.toFixed(2)}</p>
                   <label>Final Pricess - ₹ {final.toFixed(2)}</label>
   
       </div>
-                        <button
+                       { !user ? <h1 className="font-bold text-xl">Login to to Place order</h1> : <button
                             type="button"
                             onClick={handleSubmit}
                             className="rounded-md bg-[#00b14f] px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-[#00b14f]/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#00b14f] mt-4"
                             data-testid="place-order-btn"
                         >
                             Place Order
-                        </button>
+                        </button>}
     
       </>}
     

@@ -11,8 +11,9 @@ import { Suspense, lazy } from "react"
 import userContext from "./utils/userContext"
 import { Provider } from "react-redux"
 import store from "./utils/store"
-import Cart from "./components/cart"
+import Cart from "./components/Cart"
 import Login from "./components/Login"
+import CommingSoon from "./components/commingSoon"
 
 const Glocery = lazy(() => import('./components/Grocery'))
 
@@ -51,10 +52,11 @@ const appRouter = createBrowserRouter([
                 element: <Contact />
             },  
             {
-                path: "/glocery",
-                element: <Suspense fallback={<h1>Loading...</h1>}><Glocery /></Suspense>,
+                path: "/Grocery",
+                element: <Suspense fallback={<h1>Loading...</h1>}><CommingSoon /></Suspense>,
             },
             {
+                
                 path: "/cart",
                 element: <Cart />
             },

@@ -2,3 +2,7 @@
 /dist
 .parcel-cache
 /coverage
+/__tests__
+/.postcssrc
+/jest.config.js
+
