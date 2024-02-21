@@ -13,7 +13,7 @@ import { Provider } from "react-redux"
 import store from "./utils/store"
 import Cart from "./components/Cart"
 import Login from "./components/Login"
-import CommingSoon from "./components/commingSoon"
+import CommingSoon from "./components/CommingSoon"
 
 const Glocery = lazy(() => import('./components/Grocery'))
 
